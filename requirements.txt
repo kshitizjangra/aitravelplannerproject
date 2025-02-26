@@ -1,3 +1,0 @@
-streamlit
-langchain-google-genai
-google-api-core
