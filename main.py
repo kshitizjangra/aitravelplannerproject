@@ -1,4 +1,3 @@
-pip langchain_google_genai
 import os
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
